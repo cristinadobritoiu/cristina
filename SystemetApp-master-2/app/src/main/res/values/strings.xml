@@ -1,0 +1,6 @@
+<resources>
+  <string name="app_name">SystemetAppBasic</string>
+    <string name="denna_webbsida_inneh_ller_information_om_alkoholdrycker_f_r_ink_p_och_bes_k_p_denna_webbplats_m_ste_du_vara_20_r_eller_ldre">Denna webbsida innehåller information om alkoholdrycker. För inköp och besök på denna webbplats måste du vara 20 år eller äldre.</string>
+  <string name="jag_r_ver_20">Jag är över 20!</string>
+  <string name="bolaget">bolaget</string>
+</resources>
